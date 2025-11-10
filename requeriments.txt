@@ -1,0 +1,20 @@
+# file: requirements.txt
+# --- Núcleo IA local ---
+numpy>=1.24
+pytz>=2023.3
+requests>=2.31.0
+
+# --- Visión por computador (LBPH está en "contrib") ---
+opencv-contrib-python>=4.8,<5
+# opencv-contrib-python-headless>=4.8,<5
+
+# --- Audio (micrófono + reproducción) ---
+SpeechRecognition>=3.10.0
+pyaudio>=0.2.13           
+sounddevice>=0.4.6
+
+# --- TTS (Silero via torch.hub) ---
+torch>=2.1                
+
+# --- LLM local (GGUF) ---
+llama-cpp-python>=0.2.85  

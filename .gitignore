@@ -1,0 +1,11 @@
+# Ignorar toda la carpeta de datos faciales
+data_faces/
+
+# Ignorar archivos de modelos específicos
+modelos/face_labels.json
+modelos/face_lbph.xml
+modelos/Llama-3.2-3B-Instruct-Q4_K_M.gguf
+
+# Ignorar memorias (según los nombres que vi)
+memoria_airi.json
+memoria.json
