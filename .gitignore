@@ -6,6 +6,6 @@ modelos/face_labels.json
 modelos/face_lbph.xml
 modelos/Llama-3.2-3B-Instruct-Q4_K_M.gguf
 
-# Ignorar memorias (según los nombres que vi)
+# Ignorar memorias 
 memoria_airi.json
 memoria.json
